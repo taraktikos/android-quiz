@@ -1,4 +1,4 @@
-# Built application files
+git s# Built application files
 *.apk
 *.ap_
 
@@ -24,3 +24,5 @@ proguard/
 
 # Log Files
 *.log
+
+.idea/
